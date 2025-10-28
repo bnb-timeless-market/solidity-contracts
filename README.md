@@ -2,6 +2,11 @@
 
 A decentralized prediction market platform built on Ethereum using Logarithmic Market Scoring Rule (LMSR) automated market maker with ERC1155 outcome shares.
 
+## Deployed Contracts
+
+### BSC Mainnet
+- **Lmsr1155Markets**: [`0xe8DcBEefB9C601E10BD77847D45f6EBCcbe9C294`](https://bscscan.com/address/0xe8DcBEefB9C601E10BD77847D45f6EBCcbe9C294)
+
 ## Overview
 
 Timeless Market is a multi-market binary prediction platform that allows users to create, trade, and resolve prediction markets. Each market represents a binary outcome (YES/NO) question that can be traded until a specified close time, after which an oracle resolves the market.
